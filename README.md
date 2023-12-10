@@ -1,2 +1,3 @@
-# Plethodon_Tuscaloosa_2023
-Data and phylogenetic analysis code for the Hurricane Creek Park Plethodon manuscript
+# Data and Code (2023)
+
+For manuscript on identification of cryptic species of Plethodon at Hurricane Creek Park, Tuscaloosa County, Alabama
